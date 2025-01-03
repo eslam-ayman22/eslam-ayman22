@@ -8,8 +8,7 @@
 ---
 
 ### 🖥️ **About Me**
-- 🔭 I’m currently working on **Enterprise-scale applications**.
-- 🌱 I’m currently learning **React, .NET Core, and advanced SQL**.
+- 🌱 I’m currently learning **React, .NET Core, and advanced SQL and Python django and flask**.
 - 👯 I’m looking to collaborate on **innovative projects**.
 - 💬 Ask me about **C#, OOP, MVC, Entity Framework, and Frontend technologies**.
 - 📫 Reach me at **engeslamayman8@gmail.com**.

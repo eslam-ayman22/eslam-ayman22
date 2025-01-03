@@ -43,7 +43,3 @@
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslamayman&show_icons=true&theme=radical" alt="Eslam's GitHub stats" />
-</p>

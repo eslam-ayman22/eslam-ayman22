@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://your-image-link-here.jpg" alt="Banner" width="80%">
+  <img src="![image](https://github.com/user-attachments/assets/497189c2-1b8c-4270-bd27-2b4324f8cf5b)" alt="Banner" width="80%">
 </p>
 
 ---

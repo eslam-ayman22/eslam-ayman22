@@ -1,16 +1,12 @@
 <h1 align="center">👋 Hi, I'm Eslam Ayman Ahmed</h1>
 <h3 align="center">🚀 Software Engineer | Full Stack Web Developer</h3>
 
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/497189c2-1b8c-4270-bd27-2b4324f8cf5b)" alt="Banner" width="80%">
-</p>
-
 ---
 
 ### 🖥️ **About Me**
-- 🌱 I’m currently learning **React, .NET Core, advanced SQL, Python (Django & Flask)**.
-- 👯 I’m looking to collaborate on **innovative projects**.
-- 💬 Ask me about **C#, OOP, MVC, Entity Framework, and Frontend technologies**.
+- 🌱 Skilled in **Python (Django & Flask), React, Advanced SQL, HTML, CSS, and JavaScript**.
+- 👯 I’m looking to collaborate on **innovative backend and web projects**.
+- 💬 Ask me about **Python, Django, Flask, REST APIs, SQL, OOP, and Frontend development**.
 - 📫 Reach me at **[engeslamayman8@gmail.com](mailto:engeslamayman8@gmail.com)**.
 
 ---
@@ -32,8 +28,10 @@
 
 ### 🛠️ **Languages and Tools**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 

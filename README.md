@@ -10,19 +10,6 @@
 - 📫 Reach me at **[engeslamayman8@gmail.com](mailto:engeslamayman8@gmail.com)**.
 
 ---
-### 💼 **Connect With Me**
-<p align="center">
-  <a href="https://linkedin.com/in/eslam-ayman" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/eslam-ayman" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/eslam-ayman" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
-</p>
----
 
 ### 🛠️ **Languages and Tools**
 <p align="center">
